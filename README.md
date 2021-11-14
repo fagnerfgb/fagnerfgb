@@ -1,4 +1,9 @@
 ## Fagner Geraldes Braga 🖐️
+Estudando inglês, francês e infraestrutura de TI
+Studying English, French and IT Infrastructure
+En train d'étudier anglais, français et infrastructure informatique
+
+
 ### Redes Sociais
 
 [![GitHub]( 	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fagnerfgb)
