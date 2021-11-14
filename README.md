@@ -1,6 +1,8 @@
 ## Fagner Geraldes Braga 🖐️
 Estudando inglês, francês e infraestrutura de TI
+
 Studying English, French and IT Infrastructure
+
 En train d'étudier anglais, français et infrastructure informatique
 
 
