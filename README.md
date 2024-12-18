@@ -1,36 +1,75 @@
-## Fagner Geraldes Braga 🖐️
-Estudando inglês, francês, infraestrutura e desenvolvimento de TI
+# Bem-vindo ao meu GitHub! 👋 | Welcome to my GitHub! 👋 | Bienvenue sur mon GitHub ! 👋
 
-Studying English, French and IT Infrastructure and systems development
+## Português 🇧🇷
 
-J'étudie anglais, français, infrastructure et développement de systèmes
+Olá! Meu nome é Fagner e sou apaixonado por tecnologia, aprendizado contínuo e desafios. Tenho mais de 12 anos de experiência na área de TI, com certificações como LPI Linux Essentials, ITIL Foundation e Microsoft Certified Technology Specialist (MCTS): Windows 7, Configuration.
 
+Atualmente, estou me dedicando a expandir meus conhecimentos em DevOps, Linux, PowerShell e Git. Também estou estudando idiomas, como inglês e francês, e busco unir minha paixão pela tecnologia ao desenvolvimento profissional.
 
-### Redes Sociais
+### Áreas de Interesse
+- **DevOps**: Automatização, integração contínua e infraestrutura como código.
+- **Linux**: Administração de sistemas e certificações LPIC.
+- **Scripting**: PowerShell e Bash para facilitar processos.
+- **Controle de Versão**: Explorando as melhores práticas com Git.
+
+### Projetos em Destaque
+- **[senactat](https://github.com/fagnerfgb/senactat)**: Documentação das atividades desenvolvidas no curso Técnico em Informática do Senac Tatuapé.
+- **[infralabs](https://github.com/fagnerfgb/infralabs)**: Laboratório de Infraestrutura com projetos voltados para automação e scripts em PowerShell.
+- **[markdown](https://github.com/fagnerfgb/markdown)**: Guia com comandos básicos de Markdown para auxiliar na formatação de documentos.
+- **[astrojupiter](https://github.com/fagnerfgb/astrojupiter)**: Website com conteúdo sobre autoconhecimento, astrologia e autocura.
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para compartilhar ideias, colaborar ou simplesmente trocar experiências!
+
+---
+
+## English 🇺🇸
+
+Hello! My name is Fagner, and I am passionate about technology, continuous learning, and challenges. I have over 12 years of experience in IT, with certifications such as LPI Linux Essentials, ITIL Foundation, and Microsoft Certified Technology Specialist (MCTS): Windows 7, Configuration.
+
+Currently, I am focusing on expanding my knowledge in DevOps, Linux, PowerShell, and Git. I am also studying languages like English and French, aiming to combine my passion for technology with professional development.
+
+### Areas of Interest
+- **DevOps**: Automation, continuous integration, and infrastructure as code.
+- **Linux**: System administration and LPIC certifications.
+- **Scripting**: PowerShell and Bash to streamline processes.
+- **Version Control**: Exploring best practices with Git.
+
+### Featured Projects
+- **[senactat](https://github.com/fagnerfgb/senactat)**: Documentation of activities developed in the IT Technician course at Senac Tatuapé.
+- **[infralabs](https://github.com/fagnerfgb/infralabs)**: Infrastructure lab with projects focused on automation and PowerShell scripts.
+- **[markdown](https://github.com/fagnerfgb/markdown)**: Guide with basic Markdown commands to assist in document formatting.
+- **[astrojupiter](https://github.com/fagnerfgb/astrojupiter)**: Website with content about self-awareness, astrology, and self-healing.
+
+Feel free to explore my repositories and contact me to share ideas, collaborate, or simply exchange experiences!
+
+---
+
+## Français 🇫🇷
+
+Bonjour ! Je m'appelle Fagner et je suis passionné par la technologie, l'apprentissage continu et les défis. J'ai plus de 12 ans d'expérience dans le domaine de l'informatique, avec des certifications telles que LPI Linux Essentials, ITIL Foundation et Microsoft Certified Technology Specialist (MCTS) : Windows 7, Configuration.
+
+Actuellement, je me concentre sur l'approfondissement de mes connaissances en DevOps, Linux, PowerShell et Git. J'étudie également des langues comme l'anglais et le français, avec pour objectif de combiner ma passion pour la technologie avec le développement professionnel.
+
+### Domaines d'Intérêt
+- **DevOps** : Automatisation, intégration continue et infrastructure en tant que code.
+- **Linux** : Administration des systèmes et certifications LPIC.
+- **Scripting** : PowerShell et Bash pour simplifier les processus.
+- **Contrôle de Version** : Exploration des meilleures pratiques avec Git.
+
+### Projets en Vedette
+- **[senactat](https://github.com/fagnerfgb/senactat)** : Documentation des activités développées dans le cadre du cours de technicien en informatique au Senac Tatuapé.
+- **[infralabs](https://github.com/fagnerfgb/infralabs)** : Laboratoire d'infrastructure avec des projets axés sur l'automatisation et les scripts PowerShell.
+- **[markdown](https://github.com/fagnerfgb/markdown)** : Guide avec des commandes Markdown de base pour faciliter la mise en forme des documents.
+- **[astrojupiter](https://github.com/fagnerfgb/astrojupiter)** : Site web avec du contenu sur la conscience de soi, l'astrologie et l'auto-guérison.
+
+N'hésitez pas à explorer mes dépôts et à me contacter pour partager des idées, collaborer ou simplement échanger des expériences !
+
+---
+
+# Redes Sociais | Social Medias | Réseaux Sociaux
 
 [![GitHub]( 	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fagnerfgb)
 [![Linkedin]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fagnerfgb/)
 [![Facebook](  	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fagnerfgb)
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fagnerfgb/)
 ***
-### Habilidades
-![Windows]( 	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux]( 	https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian]( 	https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![CentOS]( 	https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
-![Ubuntu]( 	https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Mint]( 	https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![VisualStudioCode]( 	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Raspberry_PI]( 	https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![VIM]( 	https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVA]( 	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Eclipse]( https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-***
-### GitHub Status
-
-![Fagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=fagnerfgb&show_icons=true&theme=radical)
