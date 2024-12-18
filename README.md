@@ -22,7 +22,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato para co
 
 ---
 
-## English 🇺🇸
+## English 🇨🇦
 
 Hello! My name is Fagner, and I am passionate about technology, continuous learning, and challenges. I have over 12 years of experience in IT, with certifications such as LPI Linux Essentials, ITIL Foundation, and Microsoft Certified Technology Specialist (MCTS): Windows 7, Configuration.
 
@@ -44,7 +44,7 @@ Feel free to explore my repositories and contact me to share ideas, collaborate,
 
 ---
 
-## Français 🇫🇷
+## Français <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Quebec.svg/1024px-Flag_of_Quebec.svg.png" alt="Québec Flag" width="20"/>
 
 Bonjour ! Je m'appelle Fagner et je suis passionné par la technologie, l'apprentissage continu et les défis. J'ai plus de 12 ans d'expérience dans le domaine de l'informatique, avec des certifications telles que LPI Linux Essentials, ITIL Foundation et Microsoft Certified Technology Specialist (MCTS) : Windows 7, Configuration.
 
