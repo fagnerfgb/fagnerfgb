@@ -1,4 +1,4 @@
-# Bem-vindo ao meu GitHub! 👋 | Welcome to my GitHub! 👋 | Bienvenue sur mon GitHub ! 👋
+## Bem-vindo ao meu GitHub! 👋| Welcome to my GitHub! 👋| Bienvenue sur mon GitHub ! 👋
 
 ## Português 🇧🇷
 
@@ -66,7 +66,7 @@ N'hésitez pas à explorer mes dépôts et à me contacter pour partager des id�
 
 ---
 
-# Redes Sociais | Social Medias | Réseaux Sociaux
+## Redes Sociais | Social Medias | Réseaux Sociaux
 
 [![GitHub]( 	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fagnerfgb)
 [![Linkedin]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fagnerfgb/)
